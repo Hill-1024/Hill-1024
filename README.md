@@ -21,7 +21,7 @@
 - [matcha-auth](https://github.com/Hill-1024/matcha-auth): Material You 风格 2FA/TOTP 验证器。
 - [nutriscan-App](https://github.com/Hill-1024/nutriscan-App): AI 食物识别与营养记录应用。
 - [Monet-Color-For-Capacitor](https://github.com/Hill-1024/Monet-Color-For-Capacitor): Android Monet 动态色 Capacitor 插件。
-- [Lawyance_Intro](https://github.com/Hill-1024/Lawyance_Intro): Lawyance 法律 AI 助手介绍站。
+- [Lawyance_Intro](https://github.com/Hill-1024/Lawyance): Lawyance 法律 AI 助手。
 
 ## 写作与内容
 
