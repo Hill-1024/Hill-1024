@@ -21,7 +21,7 @@ I like learning across domains and turning ideas into working projects.
 - [matcha-auth](https://github.com/Hill-1024/matcha-auth): Material You styled 2FA/TOTP authenticator.
 - [nutriscan-App](https://github.com/Hill-1024/nutriscan-App): AI food recognition and nutrition tracking app.
 - [Monet-Color-For-Capacitor](https://github.com/Hill-1024/Monet-Color-For-Capacitor): Android Monet dynamic color plugin for Capacitor.
-- [Lawyance_Intro](https://github.com/Hill-1024/Lawyance_Intro): Intro site for the Lawyance legal AI assistant.
+- [Lawyance](https://github.com/Hill-1024/Lawyance): Chinese legal AI assistant.
 
 ## Writing
 
