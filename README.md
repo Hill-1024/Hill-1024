@@ -293,23 +293,6 @@ I do not treat any stack as a silver bullet. The better choice is usually the on
   <tr>
     <td width="50%" valign="top">
       <p>
-        <strong>twikoo-cloudflare</strong><br>
-        <sub>Local / private Cloudflare archive</sub>
-      </p>
-      <p>
-        <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-Workers-f38020?style=flat-square">
-        <img alt="D1" src="https://img.shields.io/badge/D1-database-f38020?style=flat-square">
-        <img alt="R2" src="https://img.shields.io/badge/R2-assets-f38020?style=flat-square">
-        <img alt="Archive" src="https://img.shields.io/badge/Archive-no%20public%20link-6e7781?style=flat-square">
-      </p>
-      <p>
-        <strong>中文</strong>: Twikoo 评论系统的 Cloudflare Workers + D1 + R2 部署适配，本地保留为归档项目。<br>
-        <strong>EN</strong>: A local archived Cloudflare Workers + D1 + R2 adaptation for the Twikoo comment system.<br>
-        <strong>JA</strong>: Twikoo コメントシステムを Cloudflare Workers + D1 + R2 で動かすためのローカルアーカイブ。
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <p>
         <a href="https://github.com/Hill-1024/activity-manage-system"><strong>activity-manage-system</strong></a><br>
         <sub>C course design project</sub>
       </p>
@@ -324,8 +307,6 @@ I do not treat any stack as a silver bullet. The better choice is usually the on
         <strong>JA</strong>: Mongoose HTTP、ローカルテキスト保存、Web フロントエンドを使った C 言語の活動管理システム課題。
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <p>
         <a href="https://github.com/Hill-1024/Hill-1024.github.io"><strong>Hill-1024.github.io</strong></a><br>
