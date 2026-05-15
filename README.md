@@ -309,22 +309,6 @@ I do not treat any stack as a silver bullet. The better choice is usually the on
     </td>
     <td width="50%" valign="top">
       <p>
-        <a href="https://github.com/Hill-1024/Hill-1024.github.io"><strong>Hill-1024.github.io</strong></a><br>
-        <sub>Legacy GitHub Pages archive</sub>
-      </p>
-      <p>
-        <img alt="Archive" src="https://img.shields.io/badge/Archive-legacy-6e7781?style=flat-square">
-        <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-static-222222?style=flat-square">
-        <img alt="Blog" src="https://img.shields.io/badge/Blog-migrated-4c7dff?style=flat-square">
-      </p>
-      <p>
-        <strong>中文</strong>: 已废弃的旧 GitHub Pages 静态博客归档，当前博客迁移至 <a href="https://mutsumi.moe">mutsumi.moe</a>。<br>
-        <strong>EN</strong>: An archived legacy GitHub Pages blog. The active blog has moved to <a href="https://mutsumi.moe">mutsumi.moe</a>.<br>
-        <strong>JA</strong>: 旧 GitHub Pages ブログのアーカイブ。現在のブログは <a href="https://mutsumi.moe">mutsumi.moe</a> に移行済み。
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <p>
         <a href="https://github.com/Hill-1024/Hill-1024"><strong>Hill-1024</strong></a><br>
         <sub>This profile README</sub>
       </p>
