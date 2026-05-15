@@ -124,7 +124,7 @@ I do not treat any stack as a silver bullet. The better choice is usually the on
       <p>
         <img alt="AI" src="https://img.shields.io/badge/AI-agent-7c3aed?style=flat-square">
         <img alt="Legal" src="https://img.shields.io/badge/Legal-retrieval-1f6feb?style=flat-square">
-        <img alt="Private" src="https://img.shields.io/badge/Repo-private-6e7781?style=flat-square">
+        <img alt="Public" src="https://img.shields.io/badge/Repo-private-6e7781?style=flat-square">
       </p>
       <p>
         <strong>中文</strong>: 中文法律 AI 助手，围绕法条 / 案例检索、企业信息、文档处理、对话记忆和工具调用构建。<br>
