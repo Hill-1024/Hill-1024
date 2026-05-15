@@ -75,7 +75,7 @@ I do not treat any stack as a silver bullet. The better choice is usually the on
 
 ## Project Gallery
 
-<sub>Every card includes Chinese, English, and Japanese notes. Icons are shown when the repository already provides a suitable asset.</sub>
+<sub>Refreshed from public GitHub metadata on 2026-05-15. Public, active, profile-worthy repositories are shown; deprecated or unlisted repositories stay out of the gallery. Icons are shown when a repository provides a suitable public asset.</sub>
 
 <table>
   <tr>
@@ -124,7 +124,7 @@ I do not treat any stack as a silver bullet. The better choice is usually the on
       <p>
         <img alt="AI" src="https://img.shields.io/badge/AI-agent-7c3aed?style=flat-square">
         <img alt="Legal" src="https://img.shields.io/badge/Legal-retrieval-1f6feb?style=flat-square">
-        <img alt="Public" src="https://img.shields.io/badge/Repo-private-6e7781?style=flat-square">
+        <img alt="Public" src="https://img.shields.io/badge/Repo-public-2ea043?style=flat-square">
       </p>
       <p>
         <strong>中文</strong>: 中文法律 AI 助手，围绕法条 / 案例检索、企业信息、文档处理、对话记忆和工具调用构建。<br>
@@ -258,12 +258,29 @@ I do not treat any stack as a silver bullet. The better choice is usually the on
   <tr>
     <td width="50%" valign="top">
       <p>
+        <a href="https://github.com/Hill-1024/komorebi"><strong>komorebi</strong></a><br>
+        <sub>Komorebi blog theme fork</sub>
+      </p>
+      <p>
+        <img alt="Fork" src="https://img.shields.io/badge/Repo-fork-6e7781?style=flat-square">
+        <img alt="Theme" src="https://img.shields.io/badge/Theme-blog-4c7dff?style=flat-square">
+        <img alt="Homepage" src="https://img.shields.io/badge/Home-keqing.moe-2ea043?style=flat-square">
+      </p>
+      <p>
+        <strong>中文</strong>: 木漏れ日 Blog 主题 fork，用于主题实验、内容组件和博客体验打磨。<br>
+        <strong>EN</strong>: A Komorebi blog theme fork for theme experiments, content components, and blog experience tuning.<br>
+        <strong>JA</strong>: 木漏れ日ブログテーマの fork。テーマ実験、コンテンツ部品、ブログ体験の調整に使用。
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <p>
+        <a href="https://github.com/Hill-1024/Mizuki"><img src="https://raw.githubusercontent.com/Hill-1024/Mizuki/master/public/favicon/favicon.ico" width="44" alt="Mizuki icon" align="left"></a>
         <a href="https://github.com/Hill-1024/Mizuki"><strong>Mizuki</strong></a><br>
         <sub>Astro blog theme fork / template</sub>
       </p>
       <p>
+        <img alt="Fork" src="https://img.shields.io/badge/Repo-fork-6e7781?style=flat-square">
         <img alt="Astro" src="https://img.shields.io/badge/Astro-theme-ff5d01?style=flat-square">
-        <img alt="i18n" src="https://img.shields.io/badge/i18n-README-1f6feb?style=flat-square">
         <img alt="Template" src="https://img.shields.io/badge/Template-blog-6f42c1?style=flat-square">
       </p>
       <p>
@@ -272,6 +289,8 @@ I do not treat any stack as a silver bullet. The better choice is usually the on
         <strong>JA</strong>: テーマ設定、コンテンツ同期、多言語 README を含む Mizuki Astro ブログテーマ fork / template。
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <p>
         <a href="https://github.com/Hill-1024/Docs-Mizuki"><img src="https://raw.githubusercontent.com/Hill-1024/Docs-Mizuki/master/icon.png" width="44" alt="Docs-Mizuki icon" align="left"></a>
@@ -279,8 +298,8 @@ I do not treat any stack as a silver bullet. The better choice is usually the on
         <sub>Documentation site for Mizuki</sub>
       </p>
       <p>
+        <img alt="Fork" src="https://img.shields.io/badge/Repo-fork-6e7781?style=flat-square">
         <img alt="VuePress" src="https://img.shields.io/badge/VuePress-docs-42b883?style=flat-square">
-        <img alt="Docs" src="https://img.shields.io/badge/Docs-theme-1f6feb?style=flat-square">
         <img alt="i18n" src="https://img.shields.io/badge/i18n-zh%20en%20ja-2ea043?style=flat-square">
       </p>
       <p>
@@ -289,8 +308,6 @@ I do not treat any stack as a silver bullet. The better choice is usually the on
         <strong>JA</strong>: VuePress 2 ベースの Mizuki ドキュメントサイト。中国語、英語、日本語の入口を管理。
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <p>
         <a href="https://github.com/Hill-1024/activity-manage-system"><strong>activity-manage-system</strong></a><br>
@@ -307,7 +324,9 @@ I do not treat any stack as a silver bullet. The better choice is usually the on
         <strong>JA</strong>: Mongoose HTTP、ローカルテキスト保存、Web フロントエンドを使った C 言語の活動管理システム課題。
       </p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <p>
         <a href="https://github.com/Hill-1024/Hill-1024"><strong>Hill-1024</strong></a><br>
         <sub>This profile README</sub>
