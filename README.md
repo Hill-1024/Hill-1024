@@ -4,5 +4,5 @@
 
 我不太相信“银弹”。技术选择最好回到具体问题：边界是否清楚，运行是否稳定，用户是否真的能用，下一次维护的人是否还能看懂。
 
-[博客](mutsumi.moe)
+[博客](mutsumi.moe)  [Gravator](https://gravatar.com/connoisseurquirky6f152179aa)
 
